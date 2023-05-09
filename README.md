@@ -1,2 +1,2 @@
 # learning_GIT
-New to GIT, this repository is used to gain hands on practice with GIT-Commands.
+New to GIT, this repository is used to experiment with GIT-Commands.
